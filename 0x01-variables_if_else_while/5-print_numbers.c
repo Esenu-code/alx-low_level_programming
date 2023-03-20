@@ -8,7 +8,7 @@
  */
 
 int main(void)
-{
+	{
 	int n = 0;
 
 	for (n = 0; n < 10; n++)
@@ -16,7 +16,6 @@ int main(void)
 		printf("%d", n);
 	}
 	printf("\n");
-
 	return (0);
 }
 
