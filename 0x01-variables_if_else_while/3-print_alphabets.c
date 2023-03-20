@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main = the alphabet in loewrcase, and then in uppercase, followed by a new lne.
+ * main - alphabet in lowercase, followed by a new line.
  *
- * Description: a program that prints the alphabet in lowercase and then in uppercase.
+ * Description: the alphabet in lower and upper case
  * Return: Always(0) Success
  */
 
@@ -14,15 +14,17 @@ int main(void)
 
 	while (a <= 'z')
 	{
-		putchar (a);
+		putchar(a);
 		a++;
 	}
 	while (b <= 'Z')
 	{
-		putchar (b);
+		putchar(b);
 		b++;
 	}
-	putchar ('\n');
+	putchar('\n');
 
 	return (0);
+
 }
+

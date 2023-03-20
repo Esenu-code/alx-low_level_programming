@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main = the lowercase alphabet in reverse, followed by a new line.
+ * main - Prints a list of numbers
  *
- * Description:  a program that prints the lowercase alphabet in reverse.
- * Return: Always(0) Success.
+ * Description: The numbers are all single digits
+ * Return: Always(0) Success
  */
 
 int main(void)
@@ -20,4 +20,3 @@ int main(void)
 
 	return (0);
 }
-

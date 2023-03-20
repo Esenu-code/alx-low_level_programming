@@ -3,10 +3,10 @@
 #include <time.h>
 
 /**
- * main - finds the last int n in random numbers.
+ * main - finds the last int in a random number
  *
- * Description: The numbers are generated automatically.
- * Return: Always (0) Success
+ * Description: The numbers are generated automatically
+ * Return: Always(0) Success
  */
 
 int main(void)
@@ -31,4 +31,3 @@ int main(void)
 	}
 	return (0);
 }
-

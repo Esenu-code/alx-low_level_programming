@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main = all possible combinations of single-digit numbers.
+ * main - Print single digit numbers in the formart
  *
- * Description: a program that prints all possible combinations of single-digit numbers Separated by commas.
- * Return: Always(0) Success.
+ * Description: Separated by commas
+ * Return: Always(0) Success
  */
+
 
 int main(void)
 {
