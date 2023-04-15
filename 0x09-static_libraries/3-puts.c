@@ -1,3 +1,4 @@
+#!/bin/bash
 #include "main.h"
 
 /**
@@ -14,3 +15,4 @@ void _puts(char *str)
 	}
 	_putchar('\n');
 }
+

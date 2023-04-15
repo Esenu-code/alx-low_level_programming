@@ -1,1 +1,3 @@
-libraries 
+#!/bin/bash
+libraries
+ 
