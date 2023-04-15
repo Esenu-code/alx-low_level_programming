@@ -1,1 +1,1 @@
-static liraries
+libraries 
